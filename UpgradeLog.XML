@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="YouTube Getter">
+</Property><Property Name="Solution File" Value="C:\Users\Clay\Desktop\YouTube to MP3\YOUTUBE GETTER\YouTube Getter.sln">
+</Property><Property Name="User Options File" Value="C:\Users\Clay\Desktop\YouTube to MP3\YOUTUBE GETTER\YouTube Getter.suo">
+</Property><Property Name="Date" Value="Friday, December 03, 2010">
+</Property><Property Name="Time" Value="20:33">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="YouTube Getter.sln" Description="File successfully backed up as C:\Users\Clay\Desktop\YouTube to MP3\YOUTUBE GETTER\Backup\YouTube Getter.sln">
+</Event><Event ErrorLevel="0" Project="" Source="YouTube Getter.suo" Description="File successfully backed up as C:\Users\Clay\Desktop\YouTube to MP3\YOUTUBE GETTER\Backup\YouTube Getter.suo">
+</Event><Event ErrorLevel="0" Project="YouTube Getter" Source="YouTube Getter\YouTube Getter.csproj" Description="Project file successfully backed up as C:\Users\Clay\Desktop\YouTube to MP3\YOUTUBE GETTER\Backup\YouTube Getter\YouTube Getter.csproj">
+</Event><Event ErrorLevel="0" Project="YouTube Getter" Source="YouTube Getter\YouTube Getter.csproj.user" Description="Project user file successfully backed up as C:\Users\Clay\Desktop\YouTube to MP3\YOUTUBE GETTER\Backup\YouTube Getter\YouTube Getter.csproj.user">
+</Event><Event ErrorLevel="0" Project="YouTube Getter" Source="YouTube Getter\Form1.cs" Description="File successfully backed up as C:\Users\Clay\Desktop\YouTube to MP3\YOUTUBE GETTER\Backup\YouTube Getter\Form1.cs">
+</Event><Event ErrorLevel="0" Project="YouTube Getter" Source="YouTube Getter\Form1.Designer.cs" Description="File successfully backed up as C:\Users\Clay\Desktop\YouTube to MP3\YOUTUBE GETTER\Backup\YouTube Getter\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="YouTube Getter" Source="YouTube Getter\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\Clay\Desktop\YouTube to MP3\YOUTUBE GETTER\Backup\YouTube Getter\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="YouTube Getter" Source="YouTube Getter\Properties\Application.Designer.cs" Description="File successfully backed up as C:\Users\Clay\Desktop\YouTube to MP3\YOUTUBE GETTER\Backup\YouTube Getter\Properties\Application.Designer.cs">
+</Event><Event ErrorLevel="0" Project="YouTube Getter" Source="YouTube Getter\Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Users\Clay\Desktop\YouTube to MP3\YOUTUBE GETTER\Backup\YouTube Getter\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="YouTube Getter" Source="YouTube Getter\Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Users\Clay\Desktop\YouTube to MP3\YOUTUBE GETTER\Backup\YouTube Getter\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="YouTube Getter" Source="YouTube Getter\Properties\app.manifest" Description="File successfully backed up as C:\Users\Clay\Desktop\YouTube to MP3\YOUTUBE GETTER\Backup\YouTube Getter\Properties\app.manifest">
+</Event><Event ErrorLevel="0" Project="YouTube Getter" Source="YouTube Getter\Properties\Application.myapp" Description="File successfully backed up as C:\Users\Clay\Desktop\YouTube to MP3\YOUTUBE GETTER\Backup\YouTube Getter\Properties\Application.myapp">
+</Event><Event ErrorLevel="0" Project="YouTube Getter" Source="YouTube Getter\Properties\Settings.settings" Description="File successfully backed up as C:\Users\Clay\Desktop\YouTube to MP3\YOUTUBE GETTER\Backup\YouTube Getter\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="YouTube Getter" Source="YouTube Getter\YouTube Getter_TemporaryKey.pfx" Description="File successfully backed up as C:\Users\Clay\Desktop\YouTube to MP3\YOUTUBE GETTER\Backup\YouTube Getter\YouTube Getter_TemporaryKey.pfx">
+</Event><Event ErrorLevel="0" Project="YouTube Getter" Source="YouTube Getter\youtube getter.ico" Description="File successfully backed up as C:\Users\Clay\Desktop\YouTube to MP3\YOUTUBE GETTER\Backup\YouTube Getter\youtube getter.ico">
+</Event><Event ErrorLevel="0" Project="YouTube Getter" Source="YouTube Getter\Form1.resx" Description="File successfully backed up as C:\Users\Clay\Desktop\YouTube to MP3\YOUTUBE GETTER\Backup\YouTube Getter\Form1.resx">
+</Event><Event ErrorLevel="0" Project="YouTube Getter" Source="YouTube Getter\Properties\Resources.resx" Description="File successfully backed up as C:\Users\Clay\Desktop\YouTube to MP3\YOUTUBE GETTER\Backup\YouTube Getter\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="YouTube Getter" Source="YouTube Getter\YouTube Getter.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="YouTube Getter" Source="YouTube Getter\YouTube Getter.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="YouTube Getter.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="YouTube Getter.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="YouTube Getter" Source="YouTube Getter\YouTube Getter.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

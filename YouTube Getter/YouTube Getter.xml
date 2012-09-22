@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>YouTube Downloader</name>
+    </assembly>
+    <members>
+        <member name="T:id3v1Tagger.Tagger">
+            <summary>
+            Description of LTTagger.
+            </summary>
+        </member>
+        <member name="M:id3v1Tagger.Tagger.WriteID3v11">
+            <summary>
+            This method writes the data. If the file is in use it will throw
+            an IOException
+            </summary>
+        </member>
+        <member name="P:id3v1Tagger.Tagger.Title">
+            <summary>
+            sets or reads the title. If there's a size over 30 characters, it throws a FormatException
+            </summary>
+        </member>
+        <member name="P:id3v1Tagger.Tagger.Artist">
+            <summary>
+            sets or reads the artist. If there's a size over 30 characters, it throws a FormatException
+            </summary>
+        </member>
+        <member name="P:id3v1Tagger.Tagger.Album">
+            <summary>
+            sets or reads the album. If there's a size over 30 characters, it throws a FormatException
+            </summary>
+        </member>
+        <member name="P:id3v1Tagger.Tagger.Year">
+            <summary>
+            sets or reads the year. If there's a size over 4 characters, it throws a FormatException
+            </summary>
+        </member>
+        <member name="P:id3v1Tagger.Tagger.Comment">
+            <summary>
+            sets or reads the comment. If there's a size over 28 characters, it throws a FormatException
+            </summary>
+        </member>
+        <member name="P:id3v1Tagger.Tagger.TitleNumber">
+            <summary>
+            sets or reads the title number. If the value is greater than 255
+            or smaller than 0 or the value is not a number, it throws a FormatException
+            </summary>
+        </member>
+        <member name="P:id3v1Tagger.Tagger.GenreID">
+            <summary>
+            sets or reads the GenreID. If the value is greater than 255
+            or smaller than 0 or the value is not a number, it throws a FormatException
+            </summary>
+        </member>
+        <member name="P:id3v1Tagger.Tagger.GenreName">
+            <summary>
+            reads the genreID and returns the genre name as string. If theres a ID over 147
+            it return an empty string
+            </summary>
+        </member>
+        <member name="T:id3v1Tagger.GenreDB">
+            <summary>
+            Central genre enumeration. It raises clarity and reduces ram usage
+            </summary>
+        </member>
+    </members>
+</doc>
